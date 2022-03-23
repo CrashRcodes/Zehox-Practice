@@ -339,7 +339,7 @@ broadcast-msg: ""
 antispam-msg: "Don't spam the chat!"
 
 # Message when a player is kicked using /kick-all
-kick-all-message: "Don't feel bad, everyone has been kicked! Join back in a few minutes :)"
+kick-all-message: "everyone kicked L"
 
 # Message when a player has a chest inventory and doesn't have and results to view.
 view-res-inv-msg: "You don't have duel results to view!"
