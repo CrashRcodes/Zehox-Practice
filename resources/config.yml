@@ -9,5 +9,5 @@ enable-enderpearl-cooldown: true
 
 enable-hub-formwindows: true
 enable-ranks: true
-enable-chat-filter: false
+enable-chat-filter: true
 enable-mysql: false
