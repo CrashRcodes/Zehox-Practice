@@ -5,8 +5,8 @@ chat-format: "[%formatted-ranks%] %player-name% -> %msg%"
 nametag-format: "[%formatted-ranks%] %player-name% [%hp%]"
 
 format:
-  guest:
-    rank: "Guest"
+  player:
+    rank: "Player"
     p-name: "%player%"
   builder:
     rank: "Builder"
@@ -21,7 +21,16 @@ format:
     rank: "Admin"
     p-name: "%player%"
   mod:
-    rank: "Moderator"
+    rank: "Mod"
+    p-name: "%player%"
+  modplus:
+    rank: "Mod+"
+    p-name: "%player%"
+  builder:
+    rank: "Builder"
+    p-name: "%player%"
+  headbuilder:
+    rank: "Head Builder"
     p-name: "%player%"
   dev:
     rank: "Dev"
